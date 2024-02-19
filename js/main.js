@@ -1,4 +1,4 @@
-const api = "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",
+const api = "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",
   imagesContainer = document.getElementById("imgs"),
   userInput = document.getElementById("description"),
   generateButton = document.getElementById("generate");
